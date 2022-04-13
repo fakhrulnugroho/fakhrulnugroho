@@ -1,1 +1,1 @@
-## Hello My Name is Fakhrul Fanani Nugroho
+## Hello My Name is Fakhrul Nugroho
