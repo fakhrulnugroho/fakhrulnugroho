@@ -21,7 +21,6 @@
 - :man_technologist: I am a Fullstack Developer from Indonesia.
 - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Serverless Framewok & AWS Lambda.
-- :zap: In my free time, I create microblog on my Instagram
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
