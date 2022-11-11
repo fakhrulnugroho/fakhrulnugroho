@@ -1,4 +1,7 @@
-<div id="header" align="center">
+### Hi! I'm Fakhrul Nugroho a guy who love to code, coffee, & linux. Working as a Web Developer and contributing to Frontend & Backend for building web applications.
+<br>
+<br>
+<div id="header" align="center" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 <br >
