@@ -1,4 +1,4 @@
-### Hi! I'm Fakhrul Nugroho a guy who love to code, coffee, & linux. Working as a Web Developer and contributing to Frontend & Backend for building web applications.
+Hi! I'm Fakhrul Nugroho a guy who love to code, coffee, & linux. Working as a Web Developer and contributing to Frontend & Backend for building web applications.
 <br>
 <br>
 <div id="header" align="center" >
